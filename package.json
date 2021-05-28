@@ -1,0 +1,10 @@
+{
+  "name": "vue3-plugin-api-strapi",
+  "version": "0.0.2",
+  "description": "Simple Vue3 plugin connect api and strapi. Power by axios.",
+  "main": "src/index.js",
+  "repository": "https://github.com/seapp88/vue3-plugin-api-strapi",
+  "author": "seapp88",
+  "license": "MIT",
+  "private": false
+}
