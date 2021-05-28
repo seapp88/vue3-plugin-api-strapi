@@ -12,7 +12,7 @@ or
 
 `yarn add vue3-plugin-api-strapi`
 
-edit `src/main.js`
+`edit file src/main.js`
 
 ```js
 import api from 'vue3-plugin-api-strapi'

@@ -6,5 +6,8 @@
   "repository": "https://github.com/seapp88/vue3-plugin-api-strapi",
   "author": "seapp88",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
